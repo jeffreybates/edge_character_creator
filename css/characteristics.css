@@ -1,0 +1,36 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+#name{
+	text-align: center;
+}
+
+#career{
+	text-align: center;
+}
+
+
+#characteristics{
+	text-align: center;
+}
+
+#characteristics li{
+	list-style: none;
+	display: inline-block;
+	text-align: center;
+	
+}
+
+#characteristics li .letters {
+	background-color: darkred;
+	padding-left: 5px;
+	padding-right: 5px;
+	border-radius: 15px;
+	color: white;
+}
+
+#characteristics li .numbers {
+	color:green;
+}
+
